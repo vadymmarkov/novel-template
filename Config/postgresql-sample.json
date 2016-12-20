@@ -1,7 +1,7 @@
 {
-  "host": "127.0.0.1",
-  "user": "postgres",
-  "password": "",
-  "database": "test",
-  "port": 5432
+  "host": "{host}",
+  "user": "{user}",
+  "password": "{password}",
+  "database": "{database}",
+  "port": "{port}"
 }
