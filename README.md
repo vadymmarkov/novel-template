@@ -5,18 +5,18 @@
 ![Swift](https://img.shields.io/badge/%20in-swift%203.0.2-orange.svg)
 [![License](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
-A basic template for creating a new [Novel](https://github.com/hyperoslo/novel-template)
+A basic template for creating a new [Novel](https://github.com/hyperoslo/novel)
 Swift CMS application.
 
 ## Author
 
-Hyper Interaktiv AS, ios@hyper.no
+Vadym Markov, markov.vadym@gmail.com
 
 ## Contributing
 
-We would love you to contribute to **Novel Template**, check the [CONTRIBUTING](https://github.com/hyperoslo/novel-template/blob/master/CONTRIBUTING.md)
+We would love you to contribute to **Novel Template**, check the [CONTRIBUTING](https://github.com/vadymmarkov/novel-template/blob/master/CONTRIBUTING.md)
 file for more info.
 
 ## License
 
-**Novel Template** is available under the MIT license. See the [LICENSE](https://github.com/hyperoslo/novel-template/blob/master/LICENSE.md) file for more info.
+**Novel Template** is available under the MIT license. See the [LICENSE](https://github.com/vadymmarkov/novel-template/blob/master/LICENSE.md) file for more info.
